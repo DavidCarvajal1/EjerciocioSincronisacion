@@ -18,7 +18,6 @@ public class GestorDeHojas extends Thread {
         for (String string : lista) {
             System.out.println(string);
         }
-        System.out.println(lista);
     }
 
     public static void main(String[] args) {
